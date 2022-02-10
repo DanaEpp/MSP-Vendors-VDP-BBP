@@ -47,8 +47,12 @@ def load_vendors(filename):
 def fetch_url(url):
     exists = False
 
+    h = {
+        'User-Agent': 'draft-foudil-securitytxt-12'
+    }
+
     try:
-        response = requests.get(url)
+        response = requests.get(url, headers=h)
         if( response.status_code == 200 ):
             # Need to check for at least the "Contact" field, in case
             # the resulting file is a redirect or something
@@ -102,6 +106,7 @@ def dns_security_txt_exists(domain):
         exists = False
 
     return exists
+
 
 vendors = load_vendors("vendors.txt")
 
