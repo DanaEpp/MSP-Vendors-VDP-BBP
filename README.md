@@ -41,12 +41,12 @@ Vendors, MSPs or security researchers who wish to have a company included in the
 | [nerdio](https://getnerdio.com/) | No | No | No | No | No |
 | [OITVOIP](https://oit.co/) | No | No | No | No | No |
 | [ServiceNow](https://www.servicenow.com/) | [Yes](https://www.servicenow.com/company/trust/responsible-disclosure.html) | No | No | [Yes](https://www.servicenow.com/.well-known/security.txt) | No |
-| [Servosity](https://www.servosity.com/) |  |  |  |  |  |
+| [Servosity](https://www.servosity.com/) | No | No | No | No | No |
 | [SolarWinds](https://www.solarwinds.com/)  | [Yes](https://www.solarwinds.com/information-security/vulnerability-disclosure-policy) | No | No | [Yes](https://www.solarwinds.com/.well-known/security.txt) | No |
-| [Sonicwall](https://www.sonicwall.com/)  |  |  |  |  |  |
-| [Sophos](https://www.sophos.com/)  |  |  |  |  |  |
-| [Taylor Business Group](https://www.taylorbusinessgroup.com/)  |  |  |  |  |  |
-| [ThreatLocker](https://www.threatlocker.com/)  |  |  |  |  |  |
+| [Sonicwall](https://www.sonicwall.com/) | [Yes](https://psirt.global.sonicwall.com/vuln-policy) | No | Yes  | No | No |
+| [Sophos](https://www.sophos.com/) | [Yes](https://www.sophos.com/en-us/legal/sophos-responsible-disclosure-policy) | [Yes](https://bugcrowd.com/sophos) | Yes | No | No |
+| [Taylor Business Group](https://www.taylorbusinessgroup.com/) | No | No | No | No | No |
+| [ThreatLocker](https://www.threatlocker.com/) |  |  |  |  |  |
 | [TrendMicro](https://www.trendmicro.com/)  |  |  |  |  |  |
 | [WebRoot](https://www.webroot.com/)  |  |  |  |  |  |
 | [Watchguard](https://www.watchguard.com/)  |  |  |  |  |  |
@@ -65,4 +65,23 @@ If you are offering services to other MSPs, and have a web application/portal th
 Some MSP or security researcher felt they wanted to know if you have a VDP and asked me to check. It might very well be that your appsec maturity model isn't at the point you are ready for a VDP. If so, you should be honest with your customers about that. Otherwise, if it's very new to you and you need help, [contact me](https://learn.vulscan.com/one-on-one-coaching).
 
 ### Your assessment of my company is wrong
-Could be. I'd be happy to update the index with proper data. Start by reviewing the methodology being used. If you have a proper security.txt and/or DNS Security TXT then I SHOULD be pulling the right data. In any case, send me a pull request, (or an email) and we can get the data updated with the correct information.  
+Could be. I'd be happy to update the index with proper data. Start by reviewing the methodology being used. If you have a proper security.txt and/or DNS Security TXT then I SHOULD be pulling the right data. In any case, send me a pull request, (or an email) and we can get the data updated with the correct information. 
+
+### Why isn't "vendor" included?
+Could be several reasons:
+1. No one has asked to review that company
+2. That company may be owned by another entity already in the list (ie: IT Glue/Kaseya, Autotask/Datto, Continuum/ConnectWise etc)
+3. I couldn't get clarity on their program(s), and I am still waiting to hear back from them.
+
+If you want to see someone on the list, [contact me](mailto:dana@vulscan.com).
+
+### I'm a vendor and I don't want to be on your list so security researchers can find and target me
+If we want to find you, we will. OSINT this day and age is so bloody easy. If you are marketing to MSPs, you're probably already known if a security researcher cares to look.
+
+The real question should be, "why are you scared to work with security researchers"? 
+
+Know that a VDP and BBP are NOT the same thing. You aren't forced to host bounty tables and pay us when we find vulnerabilities. It's appreciated, but not required. We don't have to look at your products/services either. Mutually beneficial relationships helps improve security for everyone, and attracts the right people to help you find and fix your vulnerabilities.
+
+Consider this though.... if our intent wasn't good and ethical, do you think by not being on this list that bad actors wouldn't approach you as a target? Do you think security by obscurity is really going to work? No, neither do I.
+
+You do want to make it easier for security researchers to contact and communicate with you if they DO find something. By defining your VDP and making clear of allowed scope, intentions and expectations we all know what to do and how to act. 
