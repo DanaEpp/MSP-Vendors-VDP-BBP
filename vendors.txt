@@ -10,6 +10,7 @@ bittitan.com
 blumira.com
 connectwise.com
 datto.com
+duo.com
 egnyte.com
 fortinet.com
 meetgradient.com
