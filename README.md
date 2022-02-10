@@ -17,7 +17,7 @@ Vendors, MSPs or security researchers who wish to have a company included in the
 | [Bitdefender](https://www.bitdefender.com/)  | [Yes](https://www.bitdefender.com/bitdefender_vulnerability_disclosure_program.html) | [Yes](https://www.bitdefender.com/site/view/bug-bounty.html) | No | No | No |
 | [BitTitan](https://www.bittitan.com/) | No | No | No | No | No |
 | [Blumira](https://www.blumira.com/) | No | No | No | No | No |
-| [ConnectWise](https://www.connectwise.com/)  |  |  |  |  |  |
+| [ConnectWise](https://www.connectwise.com/)  | [Yes](https://hackerone.com/connectwise-h1r) | No | Yes | No | No |
 | [Datto](https://www.datto.com/)  | [Yes](https://www.datto.com/legal/vulnerability-disclosure-program) | No | Yes | [Yes](https://www.datto.com/.well-known/security.txt) | No |
 | [Egnyte](https://www.egnyte.com/)  |  |  |  |  |  |
 | [Fortinet](https://www.fortinet.com/)  | [Yes](https://www.fortiguard.com/psirt_policy) | No | Yes | [Yes](https://www.fortinet.com/.well-known/security.txt) | No |
@@ -44,3 +44,6 @@ Vendors, MSPs or security researchers who wish to have a company included in the
 | [Watchguard](https://www.watchguard.com/)  |  |  |  |  |  |
 | [Xero](https://www.xero.com/ca/)  |  |  |  |  |  |
 |  |  |  |  |  |  |
+
+## Research Notes
+- Any bug bounty programs that are currently private, even if I know of them, will still be marked as "No". Any vendor that wishes to update that to a Yes simply has to provide me with a link to a landing page which offers security researchers a way to apply to the private program.
