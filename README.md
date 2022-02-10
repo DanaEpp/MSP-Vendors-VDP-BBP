@@ -21,7 +21,7 @@ Vendors, MSPs or security researchers who wish to have a company included in the
 | [Atera](https://www.atera.com/)  | No | No | No | No | No |
 | [Auvik](https://www.auvik.com/)  | [Yes](https://hackerone.com/auvik) | No | Yes  | [Yes](https://www.auvik.com/.well-known/security.txt) | No |
 | [Axcient](https://axcient.com/)  | No | No | No | No | No |
-| [Barracuda](https://www.barracuda.com/)  | [Yes](https://bugcrowd.com/barracuda) | Yes | Partial | No | No |
+| [Barracuda](https://www.barracuda.com/)  | [Yes](https://bugcrowd.com/barracuda) | [Yes](https://bugcrowd.com/barracuda) | Partial | No | No |
 | [Bitdefender](https://www.bitdefender.com/)  | [Yes](https://www.bitdefender.com/bitdefender_vulnerability_disclosure_program.html) | [Yes](https://www.bitdefender.com/site/view/bug-bounty.html) | No | No | No |
 | [BitTitan](https://www.bittitan.com/) | No | No | No | No | No |
 | [Blumira](https://www.blumira.com/) | No | No | No | No | No |
