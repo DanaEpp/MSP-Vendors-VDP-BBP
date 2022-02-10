@@ -7,7 +7,7 @@ Vendors, MSPs or security researchers who wish to have a company included in the
 
 ## Methodology
 - Anyone who contacts me with links to a vendor offering products and services to MSPs may be included in the list.
-- Every vendor added gets run though an assessment against [RFC8615](https://datatracker.ietf.org/doc/html/rfc8615) (see [https://securitytxt.org/](https://securitytxt.org/)) and DNS Security TXT (see [https://dnssecuritytxt.org/](https://dnssecuritytxt.org/)). This populates the corresponding columns.
+- Every vendor added gets run though an assessment against [RFC8615](https://datatracker.ietf.org/doc/html/rfc8615) (see [https://securitytxt.org/](https://securitytxt.org/) for latest [draft](https://datatracker.ietf.org/doc/html/draft-foudil-securitytxt-12)) and DNS Security TXT (see [https://dnssecuritytxt.org/](https://dnssecuritytxt.org/)). This populates the corresponding columns.
 - All vendors are then automatically checked against webcrawl data for terms including "Vulnerability Disclosure Program", "VDP", "vulnerability", "disclosure", "bug bounty" and "BBP". Any results will be reviewed by a human, and corresponding links added if VDP / BBP data is found.
 - Some vendors who I have relationships with may be contacted over LinkedIn or by email.
 - Anyone who submits a Git pull request will be manually reviewed for accuracy and then considered for approval. All reasonable requests will be accepted as long as the vendor clearly offers services to MSPs.
@@ -19,7 +19,7 @@ Vendors, MSPs or security researchers who wish to have a company included in the
 | [Addigy](https://addigy.com/)  | [Yes](https://addigy.com/responsible-disclosure/) | No | No | No | No |
 | [Appgate](https://www.appgate.com/)  | No | No | No | No | No |
 | [Atera](https://www.atera.com/)  | No | No | No | No | No |
-| [Auvik](https://www.auvik.com/)  | [Yes](https://hackerone.com/auvik) | No | Yes  | No | No |
+| [Auvik](https://www.auvik.com/)  | [Yes](https://hackerone.com/auvik) | No | Yes  | [Yes](https://www.auvik.com/.well-known/security.txt) | No |
 | [Axcient](https://axcient.com/)  | No | No | No | No | No |
 | [Barracuda](https://www.barracuda.com/)  | [Yes](https://bugcrowd.com/barracuda) | Yes | Partial | No | No |
 | [Bitdefender](https://www.bitdefender.com/)  | [Yes](https://www.bitdefender.com/bitdefender_vulnerability_disclosure_program.html) | [Yes](https://www.bitdefender.com/site/view/bug-bounty.html) | No | No | No |
