@@ -6,17 +6,17 @@ Vendors, MSPs or security researchers who wish to have a company included in the
 
 ## Vendors
 | Company  | VDP | BPP | Safe Harbor? | security.txt | DNS security TXT |
-| --- | --- | --- | --- | --- | --- |
+| --- | :-: | :-: | :-: | :-: | :-: |
 | [Acronis](https://www.acronis.com/)  | [Yes](https://hackerone.com/acronis/)  | [Yes](https://hackerone.com/acronis/) | Yes | [Yes](https://www.acronis.com/.well-known/security.txt) | No |
-| [Addigy](https://addigy.com/)  |  |  |  |  |  |
-| [Appgate](https://www.appgate.com/)  |  |  |  |  |  |
-| [Atera](https://www.atera.com/)  |  |  |  |  |  |
-| [Auvik](https://www.auvik.com/)  |  |  |  |  |  |
-| [Axcient](https://axcient.com/)  |  |  |  |  |  |
-| [Barracuda](https://www.barracuda.com/)  |  |  |  |  |  |
-| [Bitdefender](https://www.bitdefender.com/)  |  |  |  |  |  |
-| [BitTitan](https://www.bittitan.com/)  |  |  |  |  |  |
-| [Blumira](https://www.blumira.com/)  |  |  |  |  |  |
+| [Addigy](https://addigy.com/)  | [Yes](https://addigy.com/responsible-disclosure/) | Maybe? | No | No | No |
+| [Appgate](https://www.appgate.com/)  | No | No | No | No | No |
+| [Atera](https://www.atera.com/)  | No | No | No | No | No |
+| [Auvik](https://www.auvik.com/)  | [Yes](https://hackerone.com/auvik) | No | Yes  | No | No |
+| [Axcient](https://axcient.com/)  | No | No | No | No | No |
+| [Barracuda](https://www.barracuda.com/)  | [Yes](https://bugcrowd.com/barracuda) | Yes | Partial | No | No |
+| [Bitdefender](https://www.bitdefender.com/)  | [Yes](https://www.bitdefender.com/bitdefender_vulnerability_disclosure_program.html) | [Yes](https://www.bitdefender.com/site/view/bug-bounty.html) | No | No | No |
+| [BitTitan](https://www.bittitan.com/) | No | No | No | No | No |
+| [Blumira](https://www.blumira.com/) | No | No | No | No | No |
 | [ConnectWise](https://www.connectwise.com/)  |  |  |  |  |  |
 | [Datto](https://www.datto.com/)  | [Yes](https://www.datto.com/legal/vulnerability-disclosure-program) | No | Yes | [Yes](https://www.datto.com/.well-known/security.txt) | No |
 | [Egnyte](https://www.egnyte.com/)  |  |  |  |  |  |
