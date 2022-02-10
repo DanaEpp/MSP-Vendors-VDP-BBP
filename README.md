@@ -5,7 +5,7 @@ This serves as a general index of vendors in the MSP space who may or may not ha
 Vendors, MSPs or security researchers who wish to have a company included in the list can ping me at [dana@vulscan.com](mailto:dana@vulscan.com) with the information to be added/updated, or provide a pull request for me to approve. 
 
 ## Vendors
-| Company  | VDP | BPP | Safe Harbor? | security.txt | DNS security TXT |
+| Company  | VDP | BBP | Safe Harbor? | security.txt | DNS security TXT |
 | --- | :-: | :-: | :-: | :-: | :-: |
 | [Acronis](https://www.acronis.com/)  | [Yes](https://hackerone.com/acronis/)  | [Yes](https://hackerone.com/acronis/) | Yes | [Yes](https://www.acronis.com/.well-known/security.txt) | No |
 | [Addigy](https://addigy.com/)  | [Yes](https://addigy.com/responsible-disclosure/) | No | No | No | No |
