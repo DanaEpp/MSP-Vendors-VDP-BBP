@@ -23,7 +23,7 @@ Vendors, MSPs or security researchers who wish to have a company included in the
 | [Fortinet](https://www.fortinet.com/)  | [Yes](https://www.fortiguard.com/psirt_policy) | No | Yes | [Yes](https://www.fortinet.com/.well-known/security.txt) | No |
 | [Gradient MSP](https://www.meetgradient.com/)  | No | No | No | No | No |
 | [Huntress](https://www.huntress.com/) | No | No | No | No | No |
-| [Kaseya](https://www.kaseya.com/) | i[Yes](https://www.kaseya.com/legal/vulnerability-disclosure-policy/) | No | Yes | No | No |
+| [Kaseya](https://www.kaseya.com/) | [Yes](https://www.kaseya.com/legal/vulnerability-disclosure-policy/) | No | Yes | No | No |
 | [Liongard](https://www.liongard.com/)  |  |  |  |  |  |
 | [GoTo](https://www.goto.com) (formally LogMeIn)  |  |  |  |  |  |
 | [Malwarebytes](https://www.malwarebytes.com/)  |  |  |  |  |  |
