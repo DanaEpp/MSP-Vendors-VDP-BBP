@@ -8,7 +8,7 @@ Vendors, MSPs or security researchers who wish to have a company included in the
 | Company  | VDP | BPP | Safe Harbor? | security.txt | DNS security TXT |
 | --- | :-: | :-: | :-: | :-: | :-: |
 | [Acronis](https://www.acronis.com/)  | [Yes](https://hackerone.com/acronis/)  | [Yes](https://hackerone.com/acronis/) | Yes | [Yes](https://www.acronis.com/.well-known/security.txt) | No |
-| [Addigy](https://addigy.com/)  | [Yes](https://addigy.com/responsible-disclosure/) | Maybe? | No | No | No |
+| [Addigy](https://addigy.com/)  | [Yes](https://addigy.com/responsible-disclosure/) | No | No | No | No |
 | [Appgate](https://www.appgate.com/)  | No | No | No | No | No |
 | [Atera](https://www.atera.com/)  | No | No | No | No | No |
 | [Auvik](https://www.auvik.com/)  | [Yes](https://hackerone.com/auvik) | No | Yes  | No | No |
