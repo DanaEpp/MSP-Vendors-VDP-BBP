@@ -7,7 +7,7 @@ Vendors, MSPs or security researchers who wish to have a company included in the
 
 ## Methodology
 - Anyone who contacts me with links to a vendor offering products and services to MSPs may be included in the list.
-- Every vendor added gets run though an assessment against [RFC8615](https://datatracker.ietf.org/doc/html/rfc8615) (see [https://securitytxt.org/](https://securitytxt.org/) and DNS Security TXT (see [https://dnssecuritytxt.org/](https://dnssecuritytxt.org/). This populates the corresponding columns.
+- Every vendor added gets run though an assessment against [RFC8615](https://datatracker.ietf.org/doc/html/rfc8615) (see [https://securitytxt.org/](https://securitytxt.org/)) and DNS Security TXT (see [https://dnssecuritytxt.org/](https://dnssecuritytxt.org/)). This populates the corresponding columns.
 - All vendors are then automatically checked against webcrawl data for terms including "Vulnerability Disclosure Program", "VDP", "disclosure", "bug bounty" and "BBP". Any results will be reviewed by a human, and corresponding links added if VDP / BBP data is found.
 - Some vendors who I have relationships with may be contacted over LinkedIn or by email.
 - Anyone who submits a Git pull request will be manually reviewed for accuracy and then considered approval. All reasonable requests will be accepted as long as the vendor clearly offers services to MSPs.
