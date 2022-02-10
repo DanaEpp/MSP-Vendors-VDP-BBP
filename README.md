@@ -10,7 +10,7 @@ Vendors, MSPs or security researchers who wish to have a company included in the
 - Every vendor added gets run though an assessment against [RFC8615](https://datatracker.ietf.org/doc/html/rfc8615) (see [https://securitytxt.org/](https://securitytxt.org/)) and DNS Security TXT (see [https://dnssecuritytxt.org/](https://dnssecuritytxt.org/)). This populates the corresponding columns.
 - All vendors are then automatically checked against webcrawl data for terms including "Vulnerability Disclosure Program", "VDP", "disclosure", "bug bounty" and "BBP". Any results will be reviewed by a human, and corresponding links added if VDP / BBP data is found.
 - Some vendors who I have relationships with may be contacted over LinkedIn or by email.
-- Anyone who submits a Git pull request will be manually reviewed for accuracy and then considered approval. All reasonable requests will be accepted as long as the vendor clearly offers services to MSPs.
+- Anyone who submits a Git pull request will be manually reviewed for accuracy and then considered for approval. All reasonable requests will be accepted as long as the vendor clearly offers services to MSPs.
 
 ## Vendors
 | Company  | VDP | BBP | Safe Harbor? | security.txt | DNS security TXT |
@@ -62,7 +62,7 @@ Vendors, MSPs or security researchers who wish to have a company included in the
 If you are offering services to other MSPs, and have a web application/portal that you are asking MSPs to log into, then you are responsible for application security (appsec) of that app. That means you are a potential target in the supply chain, and should be thinking about how adversaries may leverage your digital assets to attack MSPs, and ultimately their customers. So where is _YOUR_ VDP? Need help determining if you need one? [I can help](https://learn.vulscan.com/one-on-one-coaching).
 
 ### I'm a startup providing software to MSPs, why am I on this list?
-Some MSP felt they wanted to know if you have a VDP and asked me to check. It might very well be that your appsec maturity model isn't at the point you are ready for a VDP. You should be honest with your customers about that. Otherwise, if it's very new to you and you need help, [contact me](https://learn.vulscan.com/one-on-one-coaching).
+Some MSP or security researcher felt they wanted to know if you have a VDP and asked me to check. It might very well be that your appsec maturity model isn't at the point you are ready for a VDP. If so, you should be honest with your customers about that. Otherwise, if it's very new to you and you need help, [contact me](https://learn.vulscan.com/one-on-one-coaching).
 
 ### Your assessment of my company is wrong
-Could be. I'd be happy to update the index with proper data. 
+Could be. I'd be happy to update the index with proper data. Start by reviewing the methodology being used. If you have a proper security.txt and/or DNS Security TXT then I SHOULD be pulling the right data. In any case, send me a pull request, (or an email) and we can get the data updated with the correct information.  
