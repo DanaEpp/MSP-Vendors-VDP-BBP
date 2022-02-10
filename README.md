@@ -8,7 +8,7 @@ Vendors, MSPs or security researchers who wish to have a company included in the
 ## Methodology
 - Anyone who contacts me with links to a vendor offering products and services to MSPs may be included in the list.
 - Every vendor added gets run though an assessment against [RFC8615](https://datatracker.ietf.org/doc/html/rfc8615) (see [https://securitytxt.org/](https://securitytxt.org/)) and DNS Security TXT (see [https://dnssecuritytxt.org/](https://dnssecuritytxt.org/)). This populates the corresponding columns.
-- All vendors are then automatically checked against webcrawl data for terms including "Vulnerability Disclosure Program", "VDP", "disclosure", "bug bounty" and "BBP". Any results will be reviewed by a human, and corresponding links added if VDP / BBP data is found.
+- All vendors are then automatically checked against webcrawl data for terms including "Vulnerability Disclosure Program", "VDP", "vulnerability", "disclosure", "bug bounty" and "BBP". Any results will be reviewed by a human, and corresponding links added if VDP / BBP data is found.
 - Some vendors who I have relationships with may be contacted over LinkedIn or by email.
 - Anyone who submits a Git pull request will be manually reviewed for accuracy and then considered for approval. All reasonable requests will be accepted as long as the vendor clearly offers services to MSPs.
 
@@ -46,11 +46,11 @@ Vendors, MSPs or security researchers who wish to have a company included in the
 | [Sonicwall](https://www.sonicwall.com/) | [Yes](https://psirt.global.sonicwall.com/vuln-policy) | No | Yes  | No | No |
 | [Sophos](https://www.sophos.com/) | [Yes](https://www.sophos.com/en-us/legal/sophos-responsible-disclosure-policy) | [Yes](https://bugcrowd.com/sophos) | Yes | No | No |
 | [Taylor Business Group](https://www.taylorbusinessgroup.com/) | No | No | No | No | No |
-| [ThreatLocker](https://www.threatlocker.com/) |  |  |  |  |  |
-| [TrendMicro](https://www.trendmicro.com/)  |  |  |  |  |  |
-| [WebRoot](https://www.webroot.com/)  |  |  |  |  |  |
-| [Watchguard](https://www.watchguard.com/)  |  |  |  |  |  |
-| [Xero](https://www.xero.com/ca/)  |  |  |  |  |  |
+| [ThreatLocker](https://www.threatlocker.com/) | No | No | No | No | No |
+| [TrendMicro](https://www.trendmicro.com/) | [Yes](https://hackerone.com/trendmicro) | No | No | No | No |
+| [WebRoot](https://www.webroot.com/) | No | No | No | No | No |
+| [Watchguard](https://www.watchguard.com/) | No | No | No | No | No |
+| [Xero](https://www.xero.com/ca/) | [Yes](https://hackerone.com/xero) | No | No | No | No |
 |  |  |  |  |  |  |
 
 ## Research Notes
@@ -69,7 +69,7 @@ Could be. I'd be happy to update the index with proper data. Start by reviewing 
 
 ### Why isn't "vendor" included?
 Could be several reasons:
-1. No one has asked to review that company
+1. No one has asked to review that company (yet)
 2. That company may be owned by another entity already in the list (ie: IT Glue/Kaseya, Autotask/Datto, Continuum/ConnectWise etc)
 3. I couldn't get clarity on their program(s), and I am still waiting to hear back from them.
 
