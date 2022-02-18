@@ -17,6 +17,8 @@ Vendors, MSPs or security researchers who wish to have a company included in the
 | --- | :-: | :-: | :-: | :-: | :-: |
 | [Acronis](https://www.acronis.com/)  | [Yes](https://hackerone.com/acronis/)  | [Yes](https://hackerone.com/acronis/) | Yes | [Yes](https://www.acronis.com/.well-known/security.txt) | No |
 | [Addigy](https://addigy.com/)  | [Yes](https://addigy.com/responsible-disclosure/) | No | No | No | No |
+| [Amazon](https://www.amazon.com) | [Yes](https://hackerone.com/amazonvrp) | [Yes](https://hackerone.com/amazonvrp) | Yes | [Yes](https://www.amazon.com/.well-known/security.txt) | No |
+| [Amazon AWS](https://aws.amazon.com/) | [Yes](https://aws.amazon.com/security/vulnerability-reporting/) | No | Yes | [Yes](https://aws.amazon.com/.well-known/security.txt) | No |
 | [Appgate](https://www.appgate.com/)  | No | No | No | No | No |
 | [Atera](https://www.atera.com/)  | No | No | No | No | No |
 | [Auvik](https://www.auvik.com/)  | [Yes](https://hackerone.com/auvik) | No | Yes  | [Yes](https://www.auvik.com/.well-known/security.txt) | No |

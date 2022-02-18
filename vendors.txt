@@ -1,5 +1,7 @@
 acronis.com
 addigy.com
+amazon.com
+aws.amazon.com
 appgate.com
 atera.com
 auvik.com
