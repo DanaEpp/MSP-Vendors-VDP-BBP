@@ -24,7 +24,7 @@ Vendors, MSPs or security researchers who wish to have a company included in the
 | [Barracuda](https://www.barracuda.com/)  | [Yes](https://bugcrowd.com/barracuda) | [Yes](https://bugcrowd.com/barracuda) | Partial | No | No |
 | [Bitdefender](https://www.bitdefender.com/)  | [Yes](https://www.bitdefender.com/bitdefender_vulnerability_disclosure_program.html) | [Yes](https://www.bitdefender.com/site/view/bug-bounty.html) | No | No | No |
 | [BitTitan](https://www.bittitan.com/) | No | No | No | No | No |
-| [Blumira](https://www.blumira.com/) | No | No | No | No | No |
+| [Blumira](https://www.blumira.com/) | No | No | No | [https://app.blumira.com/.well-known/security.txt](Yes) | No |
 | [ConnectWise](https://www.connectwise.com/)  | [Yes](https://hackerone.com/connectwise-h1r) | No | Yes | No | No |
 | [Datto](https://www.datto.com/)  | [Yes](https://www.datto.com/legal/vulnerability-disclosure-program) | No | Yes | [Yes](https://www.datto.com/.well-known/security.txt) | No |
 | [Duo](https://duo.com/) | [Yes](https://duo.com/support/security-and-reliability/security-response) | No | No | [Yes](https://duo.com/.well-known/security.txt) | No |

@@ -8,6 +8,7 @@ barracuda.com
 bitdefender.com
 bittitan.com
 blumira.com
+app.blumira.com
 connectwise.com
 datto.com
 duo.com
