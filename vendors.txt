@@ -16,6 +16,7 @@ datto.com
 duo.com
 egnyte.com
 fortinet.com
+google.com
 meetgradient.com
 huntress.com
 kaseya.com
