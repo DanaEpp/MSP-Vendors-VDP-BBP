@@ -12,6 +12,7 @@ bittitan.com
 blumira.com
 app.blumira.com
 connectwise.com
+cybercns.com
 datto.com
 duo.com
 egnyte.com

@@ -28,6 +28,7 @@ Vendors, MSPs or security researchers who wish to have a company included in the
 | [BitTitan](https://www.bittitan.com/) | No | No | No | No | No |
 | [Blumira](https://www.blumira.com/) | No | No | No | [Yes](https://app.blumira.com/.well-known/security.txt) | No |
 | [ConnectWise](https://www.connectwise.com/)  | [Yes](https://hackerone.com/connectwise-h1r) | No | Yes | No | No |
+| [CyberCNS](https://www.cybercns.com) | No | No | No | No | No |
 | [Datto](https://www.datto.com/)  | [Yes](https://www.datto.com/legal/vulnerability-disclosure-program) | No | Yes | [Yes](https://www.datto.com/.well-known/security.txt) | No |
 | [Duo](https://duo.com/) | [Yes](https://duo.com/support/security-and-reliability/security-response) | No | No | [Yes](https://duo.com/.well-known/security.txt) | No |
 | [Egnyte](https://www.egnyte.com/)  | No | No | No | No | No |
