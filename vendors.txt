@@ -24,6 +24,7 @@ kaseya.com
 liongard.com
 goto.com
 malwarebytes.com
+microsoft.com
 n-able.com
 naverisk.com
 ninjaone.com

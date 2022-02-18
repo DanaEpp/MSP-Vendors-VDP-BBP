@@ -40,6 +40,7 @@ Vendors, MSPs or security researchers who wish to have a company included in the
 | [Liongard](https://www.liongard.com/)  | No | No | No | No | No |
 | [GoTo](https://www.goto.com) (formally LogMeIn)  | No | No | No | No | No |
 | [Malwarebytes](https://www.malwarebytes.com/) | [Yes](https://www.malwarebytes.com/secure/guidelines) | [Yes](https://www.malwarebytes.com/secure) | No | No | No |
+| [Microsoft](https://www.microsoft.com) | [Yes](https://www.microsoft.com/en-us/msrc/bounty) | [Yes](https://www.microsoft.com/en-us/msrc/bounty) | Yes | No | No |
 | [N-Able](https://www.n-able.com/) | No | No | No | No | No |
 | [Naverisk](https://naverisk.com/)  | No | No | No | No | No |
 | [NinjaOne](https://www.ninjaone.com/) | No | [Yes](https://www.ninjaone.com/bug-bounty/) | No | [Yes](https://www.ninjarmm.com/.well-known/security.txt) | No |
