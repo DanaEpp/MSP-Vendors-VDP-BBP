@@ -34,7 +34,7 @@ Vendors, MSPs or security researchers who wish to have a company included in the
 | [Egnyte](https://www.egnyte.com/)  | No | No | No | No | No |
 | [Fortinet](https://www.fortinet.com/)  | [Yes](https://www.fortiguard.com/psirt_policy) | No | Yes | [Yes](https://www.fortinet.com/.well-known/security.txt) | No |
 | [Google](https://www.google.com) | [Yes](https://bughunters.google.com/about/rules/6625378258649088) | [Yes](https://bughunters.google.com/about/rules/6625378258649088) | No | [Yes](https://www.google.com/.well-known/security.txt) | No |
-| [Gradient MSP](https://www.meetgradient.com/)  | No | No | No | No | No |
+| [Gradient MSP](https://www.meetgradient.com/) | [Yes](https://www.meetgradient.com/vulnerability-disclosure-program?hsLang=en) | No | Yes | [Yes](https://www.meetgradient.com/.well-known/security.txt) | No |
 | [Huntress](https://www.huntress.com/) | No | No | No | No | No |
 | [Kaseya](https://www.kaseya.com/) | [Yes](https://www.kaseya.com/legal/vulnerability-disclosure-policy/) | No | Yes | No | No |
 | [Liongard](https://www.liongard.com/)  | No | No | No | No | No |
