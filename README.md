@@ -44,7 +44,7 @@ Vendors, MSPs or security researchers who wish to have a company included in the
 | [N-Able](https://www.n-able.com/) | No | No | No | No | No |
 | [Naverisk](https://naverisk.com/)  | No | No | No | No | No |
 | [NinjaOne](https://www.ninjaone.com/) | No | [Yes](https://www.ninjaone.com/bug-bounty/) | No | [Yes](https://www.ninjarmm.com/.well-known/security.txt) | No |
-| [Nizlo](https://nizlo.com/) | No | No | No | No | No |
+| [Nizlo](https://nizlo.com/) | [Yes](https://nizlo.com/security#responsible-disclosure) | No | No | [Yes](https://nizlo.com/.well-known/security.txt) | No |
 | [nerdio](https://getnerdio.com/) | No | No | No | No | No |
 | [OITVOIP](https://oit.co/) | No | No | No | No | No |
 | [ServiceNow](https://www.servicenow.com/) | [Yes](https://www.servicenow.com/company/trust/responsible-disclosure.html) | No | No | [Yes](https://www.servicenow.com/.well-known/security.txt) | No |
